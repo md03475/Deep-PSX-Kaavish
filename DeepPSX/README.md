@@ -1,9 +1,6 @@
 
 # DeepPSX: Prediction and Simulation of PSX using Deep Learning, Sentimental and Technical Analysis
 
-![image](https://user-images.githubusercontent.com/36048849/117362367-9a4d7780-aed4-11eb-86d7-912eac20ed43.png)
-
-
 ## 1. Introduction 
 
 ### 1.1 Problem Statement
@@ -84,5 +81,7 @@ decisions using this model and verify results. Lastly, generation of user friend
 ![mod5](https://user-images.githubusercontent.com/36048849/117360804-a7696700-aed2-11eb-8135-d15913f3607f.png)
 
 # Final Product
+
+![image](https://user-images.githubusercontent.com/36048849/117362367-9a4d7780-aed4-11eb-86d7-912eac20ed43.png)
 
 https://deeppsx.netlify.app/
