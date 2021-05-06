@@ -44,35 +44,39 @@ This complete project is divided into three main modules shown below:
 
 ![image](https://user-images.githubusercontent.com/36048849/117360020-b4398b00-aed1-11eb-97fa-b2daa7a559cb.png)
 
-## Module 1: Stock price prediction based on historical data in time series format using modern recurrent
-neural networks.
+## Module 1: Stock price prediction based on historical data in time series format using modern recurrent neural networks.
 - Inputs: Historical prices of an individual stock in the form of daily open, close, high and low.
 - Output: Numerical values estimating the open, close, high and low for the next day.
 
 ![Mod1](https://user-images.githubusercontent.com/36048849/117360537-5b1e2700-aed2-11eb-8c26-2039e887666e.png)
 
 
-## Module 2: Polarity prediction of news/announcements (good/bad) using sentiment analysis and natural
-language processing.
+## Module 2: Polarity prediction of news/announcements (good/bad) using sentiment analysis and natural language processing.
 - Inputs: News converted into vectors indicating investor sentiments.
 - Output: Probability of the stock price to go either up or down based on investor sentiments
 
 ![Mod 2](https://user-images.githubusercontent.com/36048849/117360570-65d8bc00-aed2-11eb-83b2-954c1c47d6e4.png)
 
 
-## Module 3: Generation of buy/sell signals on daily basis using data from first two modules and technical
-indicators along with simulation and reporting.
+## Module 3: Generation of buy/sell signals on daily basis using data from first two modules and technical indicators along with simulation and reporting.
 - Inputs: Outputs from the previous two models for a given day along with other factors such as technical indicators and global oil prices and Forex rates.
 - Output: Signals to either buy or sell a commodity the next day. An extended simulator to take
 decisions using this model and verify results. Lastly, generation of user friendly reports to take informed decisions.
 
 ![Mod 3](https://user-images.githubusercontent.com/36048849/117360634-77ba5f00-aed2-11eb-85bb-3a149bc76cff.png)
 
-## Module 4: 
+## Module 4: Trading Simulator is back-testing framework on our proposed hybrid solution.
+
+- Input: Outputs from module 1 & 3 
+- Output: Profit/loss made. 
 
 ![mod4](https://user-images.githubusercontent.com/36048849/117360748-97ea1e00-aed2-11eb-8135-38dd130cd3a2.png)
 
-## Module 5: 
+## Module 5: Displaying results on a dashboard
+
+- Input: Outputs from module 1, 2 & 3.
+
+- Output: Module 5 would be a dashboard intended for the securities indicating which equities should be bought, sold or held on a particular day with different infographics and charts so that the investor can make an informed decision every day. 
 
 ![mod5](https://user-images.githubusercontent.com/36048849/117360804-a7696700-aed2-11eb-8135-d15913f3607f.png)
 
