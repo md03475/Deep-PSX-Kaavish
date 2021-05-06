@@ -40,7 +40,7 @@ volatile market like Pakistan.
 
 # Scope and Deliverables
 
-This complete project is divided into three main modules shown below:
+This complete project is divided into five main modules shown below:
 
 ![image](https://user-images.githubusercontent.com/36048849/117360020-b4398b00-aed1-11eb-97fa-b2daa7a559cb.png)
 
