@@ -6,10 +6,10 @@
 ### 1.1 Problem Statement
 The aspiration of any investor is to forecast the market behavior aiming the best
 decision when it comes to buying or selling shares of stocks seeking to maximize
-his profits [1]. However, Efficient Market Hypothesis (EMH) is a back-breaker for
+his profits. However, Efficient Market Hypothesis (EMH) is a back-breaker for
 forecasters. In its crudest form, it effectively says that the returns from speculative
-assets are unforecastable [2]. On the contrary, according to John J.Murphy, ’traders
-collectively repeat the behaviour of the traders that preceded them [4]. We define
+assets are unforecastable. On the contrary, according to John J.Murphy, ’traders
+collectively repeat the behaviour of the traders that preceded them. We define
 our problem to test the Efficient Market Hypothesis on Pakistan Stock Exchange
 (PSX), to see if stock prices move only on new information and cannot be predicted
 or are there some underlying patterns which can be observed in order to help in
