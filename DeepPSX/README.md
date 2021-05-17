@@ -85,3 +85,4 @@ decisions using this model and verify results. Lastly, generation of user friend
 ![image](https://user-images.githubusercontent.com/36048849/117362367-9a4d7780-aed4-11eb-86d7-912eac20ed43.png)
 
 https://deeppsx.netlify.app/
+[Link to integrated Jupyter notebooks](https://drive.google.com/file/d/1rcGDoQNTl8WOeruJIwdhSmh4aYQUUQDZ/view?usp=sharing)
